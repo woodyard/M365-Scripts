@@ -12,7 +12,7 @@ Scripts are organised by the Microsoft 365 workload they target. Folders are cre
 | `Exchange/` | Exchange Online: mailboxes, archives, distribution lists, mail flow |
 | `SharePoint/` | SharePoint Online and OneDrive: sites, permissions, lists |
 | `Teams/` | Microsoft Teams: teams, channels, policies, phone system |
-| `Intune/` | Intune / Endpoint: devices, apps, detection and remediation scripts |
+| [`Intune/`](Intune/) | Intune / Endpoint: devices, apps, detection and remediation scripts |
 | `Security/` | Purview / Security & Compliance: DLP, retention, eDiscovery, audit |
 | `Licensing/` | License assignment, group-based licensing, reporting |
 
