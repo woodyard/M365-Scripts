@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Blocks Azure AD Workplace Join (device registration) on Windows endpoints.
+    Blocks Entra ID Workplace Join (device registration) on Windows endpoints.
 
 .DESCRIPTION
     Sets the BlockAADWorkplaceJoin policy registry value, which prevents Windows
